@@ -1,4 +1,3 @@
-
 .clearfix::after,
 .clearfix::before {
   content: " ";
@@ -11,16 +10,16 @@
   overflow: hidden;
 }
 
-.grey{
-  background-color: #F5F7Fa;
+.grey {
+  background-color: #f5f7fa;
 }
 
-.white{
-  background-color: #FFF;
+.white {
+  background-color: #fff;
 }
 
 .naiby {
-  background-color: #2E3D4C;
+  background-color: #2e3d4c;
 }
 
 .container {
@@ -39,7 +38,7 @@
   text-align: center;
 }
 
-.icon{
+.icon {
   width: 100%;
   background-repeat: no-repeat;
   background-position: left;
@@ -57,16 +56,16 @@
   margin-right: 35px;
 }
 
-.mail:hover{
+.mail:hover {
   background-image: url("../img/header/icon-mail-on.png");
   background-repeat: no-repeat;
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
-.tel:hover{
+.tel:hover {
   background-image: url("../img/header/icon-tel-on.png");
   background-repeat: no-repeat;
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
 .header__img {
@@ -80,27 +79,27 @@
   background-position: center;
 }
 
-.is__facebook{
+.is__facebook {
   background-image: url("../img/header/icon-facebook-off.png");
 }
 
-.is__google{
+.is__google {
   background-image: url("../img/header/icon-google-off.png");
 }
 
-.is__twitter{
+.is__twitter {
   background-image: url("../img/header/icon-twitter-off.png");
 }
 
-.is__pinterest{
+.is__pinterest {
   background-image: url("../img/header/icon-pinterest-off.png");
 }
 
-.is__behance{
+.is__behance {
   background-image: url("../img/header/icon-behance-off.png");
 }
 
-.is__dribbble{
+.is__dribbble {
   background-image: url("../img/header/icon-dribbble-off.png");
 }
 
@@ -111,28 +110,28 @@
   z-index: 2;
   width: 100%;
   height: 100%;
-  background: #4668B3;
+  background: #4668b3;
   opacity: 0;
 }
 
 .mask__google {
-  background: #DE5745;
+  background: #de5745;
 }
 
 .mask__twitter {
-  background: #2FBBEB;
+  background: #2fbbeb;
 }
 
-.mask__pinterest{
-  background: #D94348;
+.mask__pinterest {
+  background: #d94348;
 }
 
-.mask__behance{
-  background: #3079FF;
+.mask__behance {
+  background: #3079ff;
 }
 
-.mask__dribbble{
-  background: #EB6397;
+.mask__dribbble {
+  background: #eb6397;
 }
 
 .is__facebook:hover .header__mask {
@@ -194,12 +193,12 @@
   display: block;
   margin-right: 44px;
   font-size: 15px;
-  color: #506A85;
+  color: #506a85;
   text-align: center;
 }
 
-.nav__txt:hover{
-  color: #00BC9C;
+.nav__txt:hover {
+  color: #00bc9c;
 }
 
 .reen__logo {
@@ -210,19 +209,18 @@
   text-align: center;
   background-image: url(../img/main/keyvisual.jpg);
   background-size: contain;
-  padding: 300px 0 300px 0;
 }
 
 .made__for__designers {
-  color: #FFF;
+  color: #fff;
   font-size: 78px;
   text-align: center;
-  padding: 0 0 20px 0;
+  padding: 300px 0 20px;
 }
 
 .made__for__designers__sub {
   text-align: center;
-  color: #A3B1BF;
+  color: #a3b1bf;
   font-size: 24px;
   line-height: 150%;
 }
@@ -233,17 +231,17 @@
 }
 
 .get__standard__now {
-  padding: 50px 0 0 0;
+  padding: 50px 0 350px;
   position: relative;
 }
 
 .btn {
   font-size: 18px;
-  border: 1px solid #00BC9C;
+  border: 1px solid #00bc9c;
   border-radius: 5px;
-  background-color: #00BC9C;
-  box-shadow: 2px 5px #00A085;
-  color: #FFF;
+  background-color: #00bc9c;
+  box-shadow: 2px 5px #00a085;
+  color: #fff;
   cursor: pointer;
   text-align: center;
   padding: 15px 40px;
@@ -260,20 +258,20 @@
 
 .Beautiful__clean {
   font-size: 44px;
-  color: #506A85;
-  padding: 120px 0 30px 0;
+  color: #506a85;
+  padding: 120px 0 30px;
   text-align: center;
 }
 
 .Beautiful__clean__sub { 
   font-size: 22px;
-  color: #506A85;
+  color: #506a85;
   line-height: 150%;
   text-align: center;
 }
 
 .content {
-  padding: 70px 0 0 0;
+  padding: 70px 0 0;
   float: left;
 }
 
@@ -288,27 +286,27 @@
 }
 
 .content__txt {
-  color: #506A85;
+  color: #506a85;
   font-size: 26px;
 }
 
 .content__txt__sub {
-  color: #506A85;
+  color: #506a85;
   font-size: 16px;
-  padding: 20px 0 120px 0;
+  padding: 20px 0 120px;
   line-height: 26px;
 }
 
 .Check__out {
   font-size: 44px;
-  color: #506A85;
-  padding: 120px 0 30px 0;
+  color: #506a85;
+  padding: 120px 0 30px;
   text-align: center;
 }
 
 .Check__out__sub { 
   font-size: 22px;
-  color: #506A85;
+  color: #506a85;
   line-height: 150%;
   text-align: center;
   padding-bottom: 50px;
@@ -328,13 +326,13 @@
 
 .Grand__hotel__sub {
   width: 555px;
-  background-color: #FFF;
+  background-color: #fff;
 }
 
 .Grand__hotel__txt {
   text-align: center;
   font-size: 20px;
-  color: #506A85;
+  color: #506a85;
   position: relative;
   top: 30px;
 }
@@ -342,24 +340,24 @@
 .Grand__hotel__txt2 {
   text-align: center;
   font-size: 14px;
-  color: #506A85;
+  color: #506a85;
   padding: 40px;
 }
 
 .hotel__mask__txt {
   text-align: center;
-  color: #FFF;
+  color: #fff;
   line-height: 392px;
 }
 
 .work__main {
-  background-color: #FFF;
+  background-color: #fff;
   text-align: center;
-  color: #506A85;
+  color: #506a85;
   font-size: 20px;
-  border-right: 1px solid #CCC;
-  border-left: 1px solid #CCC;
-  padding: 30px 0 0 0;
+  border-right: 1px solid #ccc;
+  border-left: 1px solid #ccc;
+  padding: 30px 0 0;
 }
 
 .Check__out__imgs {
@@ -377,8 +375,7 @@
   z-index: 2;
   width: 100%;
   height: 100%;
-  background: #00BC9C;
-  -webkit-transition: .3s;
+  background: #00bc9c;
   transition: .3s;
   opacity: 0;
 }
@@ -388,7 +385,7 @@
 }
 
 .Grand__hotel__box:hover .Grand__hotel__txt{
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
 .Check__out__imgs:hover .mask {
@@ -397,20 +394,20 @@
 
 .mask__txt {
   text-align: center;
-  color: #FFF;
-  margin: 70px 0 -60px 0;
+  color: #fff;
+  margin: 70px 0 -60px;
 }
 
 .Want__to {
   font-size: 44px;
-  color: #506A85;
+  color: #506a85;
   text-align: center;
-  padding: 100px 0 30px 0;
+  padding: 100px 0 30px;
 }
 
 .Want__to__sub {
   font-size: 22px;
-  color: #506A85;
+  color: #506a85;
   text-align: center;
   line-height: 150%;
 }
@@ -419,9 +416,8 @@
   padding-bottom: 50px;
 }
 
-.get{
+.get {
   padding-bottom: 200px;
-  text-align: center;
   position: relative;
 }
 
@@ -432,21 +428,21 @@
 }
 
 .who__we__are {
-  padding: 75px 0 75px 0;
+  padding: 75px 0;
 }
 
 .footer__content {
   float: left;
   width: 250px;
   background-color: #354859;
-  margin: 0 40px 0 0;
+  margin-right:40px;
 }
 
 .footer__content__img {
   float: left;
   width: 260px;
   background-color: #354859;
-  margin: 0 40px 0 0;
+  margin-right: 40px;
   box-sizing: border-box;
 }
 
@@ -463,33 +459,33 @@
 
 .who__we__are__txt {
   padding-bottom: 30px;
-  color: #FFF;
+  color: #fff;
   font-size: 16px;
 }
 
 .who__we__are__txt__sub {
-  padding: 20px 0px 20px 0px;
-  color: #506A85;
+  padding: 20px 0;
+  color: #506a85;
   font-size: 14px;
   word-break: break-all;
   line-height: 18px;
 }
 
 .More__about {
-  padding: 0px 0px 20px 0px;
-  color: #506A85;
+  padding: 0 0 20px;
+  color: #506a85;
   font-size: 14px;
 }
 
 .Connecus {
-  padding: 20px 0 0 0;
-  color: #506A85;
+  padding: 20px 0;
+  color: #506a85;
   font-size: 14px;
 }
 
 .footer__mask__txt {
   line-height: 87px;
-  color: #FFF;
+  color: #fff;
   text-align: center;
 }
 
@@ -499,57 +495,56 @@
 
 .get__in__touch {
   padding-top: 10px;
-  color: #FFF;
+  color: #fff;
   font-size: 14px;
 }
 
 .footer__info {
-  color: #506A85;
-  padding: 10px 0 0 0;
+  color: #506a85;
+  padding: 10px 0;
 }
 
-.footer__icon{
+.footer__icon {
   width: 100%;
   background-repeat: no-repeat;
   background-position: left;
   font-size: 14px;
-  color: #506A85;
+  color: #506a85;
   text-indent: 20px;
   margin-bottom: 5px;
 }
 
-.footer__address{
+.footer__address {
   background-image: url("../img/footer/icon-address-off.png");
   background-repeat: no-repeat;
 }
 
-.footer__tel{
+.footer__tel {
   background-image: url("../img/footer/icon-tel-off.png");
   background-repeat: no-repeat;
 }
 
-.footer__mail{
+.footer__mail {
   background-image: url("../img/footer/icon-mail-off.png");
   background-repeat: no-repeat;
 }
 
-
-.footer__address:hover{
+.footer__address:hover {
   background-image: url("../img/footer/icon-address-on.png");
   background-repeat: no-repeat;
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
-.footer__mail:hover{
+.footer__mail:hover {
   background-image: url("../img/footer/icon-mail-on.png");
   background-repeat: no-repeat;
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
-.footer__tel:hover{
+.footer__tel:hover {
   background-image: url("../img/footer/icon-tel-on.png");
   background-repeat: no-repeat;
-  color: #00BC9C;
+  color: #00bc9c;
 }
 
 .txt__area {
@@ -560,17 +555,17 @@
   padding: 8px;
 }
 
-form{
+form {
   position: relative;
 }
 
 .btn3 {
   font-size: 10px;
-  border: 1px solid #00BC9C;
+  border: 1px solid #00bc9c;
   border-radius: 5px;
-  background-color: #00BC9C;
-  box-shadow: 2px 3px #00A085;
-  color: #FFF;
+  background-color: #00bc9c;
+  box-shadow: 2px 3px #00a085;
+  color: #fff;
   cursor: pointer;
   text-align: center;
   padding: 5px;
@@ -585,9 +580,9 @@ form{
 }
 
 .sign {
-  padding: 30px 0 15px 0;
+  padding: 30px 0 15px;
   font-size: 12px;
-  color: #506A85;
+  color: #506a85;
 }
 
 .label__nav {
@@ -599,9 +594,9 @@ form{
 .label__nav > li {
   float: right;
   font-size: 12px;
-  color: #506A85;
+  color: #506a85;
   list-style-type: disc;
-  margin: 0 10px 0 10px;
+  margin: 0 10px;
 }
 
 .label__nav li:last-child {

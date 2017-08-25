@@ -188,7 +188,6 @@
   margin: 0 85px 30px 0;
 }
 
-
 .header__nav li {
   padding-top: 15px;
   float: left;
@@ -202,7 +201,6 @@
 .nav__txt:hover{
   color: #00BC9C;
 }
-
 
 .reen__logo {
   position: relative;
@@ -316,7 +314,7 @@
   padding-bottom: 50px;
 }
 
-.grand__hotel__box {
+.Grand__hotel__box {
   float: left;
   margin-right: 30px;
 }
@@ -483,21 +481,8 @@
 
 .Connecus {
   padding: 20px 0 0 0;
-  color: #506a85;
+  color: #506A85;
   font-size: 14px;
-}
-
-.footer__mask {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 2;
-  width: 100%;
-  height: 100%;
-  background: #00bc9c;
-  -webkit-transition: .3s;
-  transition: .3s;
-  opacity: 0;
 }
 
 .footer__mask__txt {
@@ -506,7 +491,7 @@
   text-align: center;
 }
 
-.footer__img:hover .footer__mask {
+.footer__img:hover .mask {
   opacity: .9;
 }
 

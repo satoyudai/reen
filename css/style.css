@@ -383,11 +383,11 @@
   opacity: 0;
 }
 
-.grand__hotel__box:hover .mask{
+.Grand__hotel__box:hover .mask{
   opacity: .9;
 }
 
-.grand__hotel__box:hover .Grand__hotel__txt{
+.Grand__hotel__box:hover .Grand__hotel__txt{
   color: #00BC9C;
 }
 
@@ -601,4 +601,3 @@
 .label__nav li:last-child {
   list-style-type: none;
 }
-
